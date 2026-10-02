@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TelecomCdr/TelecomCdr.csproj" />
+  <Project Path="TelecomCDR_Tests/TelecomCDR_Tests.csproj" />
+</Solution>
